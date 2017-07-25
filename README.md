@@ -19,3 +19,6 @@ Run the script
 ```
 ./checkIndentation.sh <NAME_OF_C++_FILE> <TAB_WIDTH>
 ```
+## Author
+
+Written By: Aakash Prabhu - University of California, Davis

@@ -1,5 +1,5 @@
 import sys # For command lne arguments
-
+ 
 global stack # Declare stack to keep track of nested indentation style
 global tests # Use this if we everything is correct
 global TAB_WIDTH

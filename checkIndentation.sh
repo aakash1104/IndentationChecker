@@ -5,3 +5,4 @@ if [[ $# -ne 2 ]]; then
 fi
 
 python3 checker.py $1 $2
+ 

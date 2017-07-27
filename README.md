@@ -22,7 +22,7 @@ Run the script
 
 ## Assumptions
 
-This script assumes that your C++ code compiles. If you have extra curly braces that may program to throw an error, the script will not compute indentation widths correctly!
+This script assumes that your C++ code compiles. If you have extra curly braces that may cause your program to throw an error, the script will not compute indentation widths correctly!
 
 ## Author
 
